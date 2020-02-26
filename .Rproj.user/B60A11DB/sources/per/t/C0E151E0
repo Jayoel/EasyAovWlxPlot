@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582686135612.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "55465728",
+    "id" : "C0E151E0",
+    "lastKnownWriteTime" : 1582683734,
+    "last_content_update" : 1582683734,
+    "path" : "G:/Shared_Folder/my_R_packages/EasyAovWlxPlot/help.Rmd",
+    "project_path" : "help.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
